@@ -4,4 +4,4 @@
 
 ### [Keras on Github](https://github.com/fchollet/keras)
 
-I'm running Python version 3.5.2
+I'm running Python version 3.5.2, and the backend is currently TensorFlow.
