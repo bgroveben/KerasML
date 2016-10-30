@@ -7,6 +7,7 @@
 I'm running Python version 3.5.2, and the backend is currently Theano.  
 The backend can be changed to TensorFlow in ~/.keras/keras.json
 
-I think I'll try some [examples](https://keras.io/getting-started/sequential-model-guide/#examples) from the docs next -- VGG-like convnet:
+I think I'll try some [examples](https://keras.io/getting-started/sequential-model-guide/#examples) from the docs next --  
+Sequence classification with LSTM:
 
 There are some more in-depth examples on the Keras [Github repo](https://github.com/fchollet/keras/tree/master/examples).
